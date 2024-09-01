@@ -1,3 +1,6 @@
 [submodule "discordbot"]
 	path = discordbot
 	url = https://github.com/ClashOfClansStats/discordbot
+[submodule "Docs"]
+	path = Docs
+	url = https://github.com/ClashOfClansStats/docs.github.io
